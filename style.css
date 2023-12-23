@@ -14,7 +14,7 @@ p{
 }
 
 .top-element{
-    color: yellow;
+    font-color: yellow;
     position:absolute;
     top:0;
     font-size: 100px;
