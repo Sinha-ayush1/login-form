@@ -1,0 +1,28 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    background-image: url(nmw-brands-sAV0jqAaFxo-unsplash.jpg);
+    background-size: cover;
+}
+p{
+    a{
+        color:chartreuse;
+    }
+  
+}
+.remember-forgot{
+    a{
+        color: black;
+    }
+    color:aliceblue;
+}
+
+.top-element{
+    
+    position:absolute;
+    top:0;
+    font-size: 100px;
+    font-family:cursive;
+}
